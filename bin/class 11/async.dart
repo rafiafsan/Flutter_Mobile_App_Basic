@@ -6,7 +6,7 @@ main() async {
       print("Unable to vote");
     }
   });
-
+//rafi
   midResult(85).then((value) {
     if (value) {
       print("will conti");
